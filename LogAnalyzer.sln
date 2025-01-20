@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogAnalyzer", "LogAnalyzer\LogAnalyzer.csproj", "{442A11CB-C25A-4BD7-AA3F-2C0163D47731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsGenerator", "LogsGenerator\LogsGenerator.csproj", "{17D30202-9C26-41B3-86C7-937AB2014CCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{442A11CB-C25A-4BD7-AA3F-2C0163D47731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442A11CB-C25A-4BD7-AA3F-2C0163D47731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442A11CB-C25A-4BD7-AA3F-2C0163D47731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442A11CB-C25A-4BD7-AA3F-2C0163D47731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17D30202-9C26-41B3-86C7-937AB2014CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17D30202-9C26-41B3-86C7-937AB2014CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17D30202-9C26-41B3-86C7-937AB2014CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17D30202-9C26-41B3-86C7-937AB2014CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
